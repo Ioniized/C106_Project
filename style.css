@@ -1,0 +1,28 @@
+body{
+    background-color: bisque;
+    top: 0%;
+}
+
+.header_div{
+    font-family: 'monospace';
+    background-color: rgb(156, 173, 190);
+}
+
+button{
+    background-color: rgb(247, 238, 222);
+    border-radius: 20px;
+    height: 30px;
+    width: 90px;
+    font-size: 20px
+}
+.copyright_footer {
+    position: fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    background-color: whitesmoke;
+    line-height: 5;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(124, 124, 124);
+ }
